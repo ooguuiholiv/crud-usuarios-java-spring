@@ -51,7 +51,7 @@ Para replicar este ambiente em sua estação de trabalho:
 ### Sequência de Boot
 ```bash
 # Clone o repositório
-git clone [https://github.com/guilherme-franco/cadastro-usuario.git](https://github.com/guilherme-franco/cadastro-usuario.git)
+git clone [https://github.com/ooguuiholiv/crud-usuarios-java-spring.git](https://github.com/ooguuiholiv/crud-usuarios-java-spring.git)
 
 # Acesse o diretório
 cd cadastro-usuario
