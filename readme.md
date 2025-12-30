@@ -54,7 +54,7 @@ Para replicar este ambiente em sua estação de trabalho:
 git clone [https://github.com/ooguuiholiv/crud-usuarios-java-spring.git](https://github.com/ooguuiholiv/crud-usuarios-java-spring.git)
 
 # Acesse o diretório
-cd cadastro-usuario
+cd crud-usuarios-java-spring
 
 # Compile e execute o kernel
 mvn spring-boot:run
